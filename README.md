@@ -14,3 +14,5 @@ In this task, we plot the frequency response and impulse response of two filters
 
 Conclusion
 In conclusion, this project involved implementing digital signal processing techniques using MATLAB. We plotted frequency and impulse responses of Butterworth filters, designed a stop filter to remove sinusoidal signals, and analyzed the frequency and impulse responses of two other filters.
+
+Link to youtube video :  https://youtu.be/VvHG4kpMpZw
